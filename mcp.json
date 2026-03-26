@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "aethar-cost-of-living": {
+      "url": "https://col.wageapi.com/api/mcp",
+      "headers": {
+        "X-API-Key": "YOUR_API_KEY"
+      }
+    }
+  }
+}
